@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">App Story</string>
+    <string name="input_name">Silakan masukkan nama anda</string>
+    <string name="input_password">Silakan masukkan kata sandi anda</string>
+    <string name="input_email">Silakan masukkan email anda</string>
+
+    <string name="invalid_email">email salah</string>
+    <string name="invalid_password">kata sandi setidaknya harus 6 karakter</string>
+    <string name="login_failed">"Gagal masuk"</string>
+
+    <string name="login">Masuk</string>
+    <string name="register">Daftar</string>
+    <string name="list_story">Daftar Cerita</string>
+    <string name="add_story">Tambah Cerita</string>
+    <string name="logout">Keluar</string>
+
+    <string name="login_with_your_account">Masuk dengan akun anda</string>
+    <string name="register_your_account">Daftarkan akun anda</string>
+    <string name="did_t_have_account"><u>Belum memiliki akun?</u></string>
+    <string name="have_account"><u>Sudah memiliki akun?</u></string>
+    <string name="fill_all">Isi semua kolom dengan benar</string>
+
+    <string name="greeting">Apa kabar %1$s,</string>
+    <string name="created_add">Dibuat pada %1$s,</string>
+    <string name="home_description">Bagikan cerita anda, berbagi aktivitas, dan cari tahu cerita orang lain </string>
+    <string name="login_account">Masuk dengan akun anda</string>
+    <string name="continue_">Lanjutkan</string>
+    <string name="login_success">Berhasil masuk</string>
+    <string name="register_success">Pendaftaran berhasil, Anda bisa masuk dengan akun anda</string>
+    <string name="register_failed">Pendaftaran Gagal</string>
+    <string name="upload_failed">Upload Gagal</string>
+    <string name="upload_success">Upload Berhasil</string>
+    <string name="log_out_success">Berhasil Keluar</string>
+    <string name="information">Informasi</string>
+
+    <string name="camera">Kamera</string>
+    <string name="description">Deskripsi</string>
+    <string name="gallery">Galeri</string>
+    <string name="upload">Upload</string>
+    <string name="change_language">Ganti bahasa</string>
+    <string name="new_story">Cerita Baru</string>
+    <string name="image_preview">Pratinjau gambar</string>
+    <string name="setting">Pengaturan</string>
+    <string name="image_logo">Gambar</string>
+
+    <string name="image_story">Gambar Cerita</string>
+    <string name="name">Nama</string>
+    <string name="no_story">Tidak ada cerita</string>
+    <string name="post_story">Posting cerita</string>
+    <string name="invalid_permission">Tidak bisa mendapatkan izin</string>
+    <string name="no_attach_file">Tidak ada berkas yang dilampirkan, mohon lampirkan berkas terlebih dahulu</string>
+    <string name="rotate_image">Putar gambar</string>
+
+    <string name="detail_story">Detail Cerita</string>
+    <string name="switch_camera">Beralih Kamera</string>
+    <string name="capture_image">Tangkap gambar</string>
+    <string name="must_filled">Harus diisi</string>
+
+</resources>
